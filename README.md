@@ -32,7 +32,6 @@ Beyond pure engineering, I'm building a foundation in **OS internals** and **sys
 ---
 
 ## 🌐 Socials
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mortezapzhm@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pzhm-labs)
 
