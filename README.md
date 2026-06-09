@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Morteza 👋
 
-<!--
-**pzhm-labs/pzhm-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at K. N. Toosi University of Technology (KNTU).
+Currently exploring **Operating Systems**, **Computer Networks**, and **AI/ML**.
 
-Here are some ideas to get you started:
+### What I'm working on
+- 📚 University projects in OS, networking, and AI
+- 🌱 Learning by building and documenting real projects
+- 🔭 Interested in ML Engineering — where backend meets machine learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Focus Areas
+Currently exploring **Deep Learning Engineering** — the intersection of neural network architectures and production systems.
+
+## 🛠️ Tech Stack
+- **Languages:** Python, Go (learning)
+- **Frameworks:** Django, PyTorch (exploring)
+- **Topics:** Deep learning fundamentals, OS concepts, distributed systems
+
+### Find me
+- 📫 Reach me at: mortezapzhm@gmail.com
