@@ -49,6 +49,7 @@ Distributed Systems Fundamentals
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### ML & Data Analysis
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -102,7 +103,7 @@ Distributed Systems Fundamentals
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MortezaPZ&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MortezaPZ&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&exclude_repo=MortezaPZ,Store-Sales-Prediction-Sentiment-Analysis"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MortezaPZ&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&exclude_repo=MortezaPZ"/>
 
 </div>
 
